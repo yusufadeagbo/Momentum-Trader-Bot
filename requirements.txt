@@ -1,0 +1,7 @@
+ccxt
+websocket-client
+python-dotenv
+
+# GUI dependencies
+PyQt5>=5.15.0
+pyqtgraph>=0.13.0
