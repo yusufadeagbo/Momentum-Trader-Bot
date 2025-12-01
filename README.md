@@ -3,8 +3,6 @@
 
 ## What This Bot Does
 
-**Simple version:** It watches crypto prices and automatically:
-
 - **BUYS** when price drops suddenly (catching the dip)
 - **SELLS** when profit target is hit, OR cuts losses if price drops too much
 
